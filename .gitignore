@@ -4,4 +4,6 @@
 /Example/TinyConstraints.xcodeproj/xcuserdata
 /Example/TinyConstraints.xcodeproj/project.xcworkspace/xcuserdata
 /Example/Build
+/Example/Carthage
 .swiftpm
+.build
